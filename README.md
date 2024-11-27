@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauraamaya08" alt="lauraamaya08" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- ✏️ I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio-laura-amaya-9e050.web.app/)
+- 🌟 You can know more about me at <a href="portfolio-laura-amaya-9e050.web.app/" target="blank"</a>
 
 - 💬 Ask me about **Java, Javascript**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/LauraAmaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura amaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laura-amaya-bb22282b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura amaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
