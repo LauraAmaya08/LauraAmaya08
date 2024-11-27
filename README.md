@@ -7,7 +7,7 @@
 
 - ✏️ I’m currently learning **Angular**
 
-- 🌟 You can know more about me at <a href="portfolio-laura-amaya-9e050.web.app/" target="blank"</a>
+- 🌟 You can know more about me at <a href="https://github.com/ryo-ma/github-profile-trophy">here!</a>
 
 - 💬 Ask me about **Java, Javascript**
 
