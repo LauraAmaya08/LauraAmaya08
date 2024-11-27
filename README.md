@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauraamaya08&label=Profile%20views&color=0e75b6&style=flat" alt="lauraamaya08" /> </p>
 
-<p align="left"> <a href="https://portfolio-laura-amaya-9e050.web.app/"><img src="https://github-profile-trophy.vercel.app/?username=lauraamaya08" alt="lauraamaya08" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauraamaya08" alt="lauraamaya08" /></a> </p>
 
 - ✏️ I’m currently learning **Angular**
 
-- 🌟 You can know more about me at <a href="https://github.com/ryo-ma/github-profile-trophy">here!</a>
+- 🌟 You can know more about me at <a href="https://portfolio-laura-amaya-9e050.web.app/" >here!</a>
 
 - 💬 Ask me about **Java, Javascript**
 
